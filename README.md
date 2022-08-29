@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![](https://github-readme-stats.vercel.app/api?username=Jeannot-MN&show_icons=true&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeannot-MN&layout=compact)
+
 <!--
 **Jeannot-MN/Jeannot-MN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
