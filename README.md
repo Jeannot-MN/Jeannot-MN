@@ -21,7 +21,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Jeannot-MN&show_icons=true&count_private=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeannot-MN&layout=compact&langs_count=10&hide=makefile,qmake,css)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeannot-MN&layout=compact&langs_count=10&hide=makefile,qmake,css,html)
 </div>
 
 <!--
